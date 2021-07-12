@@ -1,0 +1,4 @@
+core.php, logout.php, index.php
+header('location: http://localhost/ims/index.php');
+	
+Created by Suryapratim Ray, Aditya Bhattacharya, Preetam Ghosh, Rajat Biswas
